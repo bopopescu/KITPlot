@@ -6,7 +6,7 @@
 Hello World! Welcome to the KITPlot script. This script was created by
 Daniel Schell (daniel.schell@kit.edu) and Marius Metzler
 (marius.metzler@kit.edu). This script is about creating distinctive,
-well-arranged plots especially for bachelor/master students at ETP, who find
+well-arranged plots especially for bachelor/main students at ETP, who find
 common, commercially availible plotting software as lame and unconvinient
 as we do. The greatest benifit of KITPlot is that it is able to directly
 communicate with the ETP database. It also automatizes standard operations and
